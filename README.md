@@ -1,2 +1,2 @@
 # icons
- This is the pachage Icons for all sites
+ This is the package Icons for all sites
