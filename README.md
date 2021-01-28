@@ -14,3 +14,5 @@ Option 2 `@import`:
 ```
 
 [See the demo page](https://ux-alkosto.github.io/)
+
+![alt text](https://data.jsdelivr.com/v1/package/gh/UX-Alkosto/UX-Alkosto.github.io/badge "JsDelivr")
