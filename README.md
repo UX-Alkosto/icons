@@ -1,3 +1,9 @@
+![JsDeliver Request](https://data.jsdelivr.com/v1/package/gh/ux-alkosto/icons/badge "JsDelivr")
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/UX-Alkosto/icons)
+[![Only 13 Kb](https://badge-size.herokuapp.com/UX-Alkosto/icons/master/style.css)](https://github.com/UX-Alkosto/icons/blob/master/style.css)
+
+
+
 # Use on the web
 To embed this font, copy the code into your html:
 
@@ -14,5 +20,3 @@ Option 2 `@import`:
 ```
 
 [See the demo page](https://ux-alkosto.github.io/icons/)
-
-![alt text](https://data.jsdelivr.com/v1/package/gh/ux-alkosto/icons/badge "JsDelivr")
