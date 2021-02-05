@@ -1,6 +1,6 @@
 ![JsDeliver Request](https://data.jsdelivr.com/v1/package/gh/ux-alkosto/icons/badge "JsDelivr")
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/UX-Alkosto/icons)
-[![Only 13 Kb](https://badge-size.herokuapp.com/UX-Alkosto/icons/master/style.css)](https://github.com/UX-Alkosto/icons/blob/master/style.css)
+[![Only 13 Kb](https://badge-size.herokuapp.com/UX-Alkosto/icons/master/style.css)](https://cdn.jsdelivr.net/gh/ux-alkosto/icons@latest/style.min.css)
 
 
 
