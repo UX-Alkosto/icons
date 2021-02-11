@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?sb5vx4');
-  src:  url('fonts/icomoon.eot?sb5vx4#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?sb5vx4') format('truetype'),
-    url('fonts/icomoon.woff?sb5vx4') format('woff'),
-    url('fonts/icomoon.svg?sb5vx4#icomoon') format('svg');
+  src:  url('fonts/icomoon.eot?dm6wkp');
+  src:  url('fonts/icomoon.eot?dm6wkp#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?dm6wkp') format('truetype'),
+    url('fonts/icomoon.woff?dm6wkp') format('woff'),
+    url('fonts/icomoon.svg?dm6wkp#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -791,4 +791,16 @@
 }
 .alk-icon-wifi-signal:before {
   content: "\e9fb";
+}
+.alk-icon-pse:before {
+  content: "\e9fc";
+}
+.alk-icon-pago-efectivo:before {
+  content: "\e9fd";
+}
+.alk-icon-credito-20:before {
+  content: "\e9fe";
+}
+.alk-icon-tarjeta-alkosto:before {
+  content: "\e9ff";
 }
