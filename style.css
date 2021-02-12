@@ -1,10 +1,9 @@
 @font-face {
-  font-family: 'icomoon';
-  src:  url('fonts/icomoon.eot?dm6wkp');
-  src:  url('fonts/icomoon.eot?dm6wkp#iefix') format('embedded-opentype'),
-    url('fonts/icomoon.ttf?dm6wkp') format('truetype'),
-    url('fonts/icomoon.woff?dm6wkp') format('woff'),
-    url('fonts/icomoon.svg?dm6wkp#icomoon') format('svg');
+  font-family: 'alk-icon';
+  src:
+    url('fonts/alk-icon.ttf?dcfg00') format('truetype'),
+    url('fonts/alk-icon.woff?dcfg00') format('woff'),
+    url('fonts/alk-icon.svg?dcfg00#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -12,7 +11,7 @@
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
-  font-family: 'icomoon' !important;
+  font-family: 'alk-icon' !important;
   speak: never;
   font-style: normal;
   font-weight: normal;
