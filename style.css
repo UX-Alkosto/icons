@@ -1,9 +1,9 @@
 @font-face {
   font-family: 'alk-icon';
   src:
-    url('fonts/alk-icon.ttf?htjtpf') format('truetype'),
-    url('fonts/alk-icon.woff?htjtpf') format('woff'),
-    url('fonts/alk-icon.svg?htjtpf#alk-icon') format('svg');
+    url('fonts/alk-icon.ttf?hsmuy1') format('truetype'),
+    url('fonts/alk-icon.woff?hsmuy1') format('woff'),
+    url('fonts/alk-icon.svg?hsmuy1#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -808,4 +808,22 @@
 }
 .alk-icon-sad:before {
   content: "\ea01";
+}
+.alk-icon-secadora:before {
+  content: "\ea02";
+}
+.alk-icon-lavadoras-secadoras:before {
+  content: "\ea03";
+}
+.alk-icon-dispensador-agua:before {
+  content: "\ea04";
+}
+.alk-icon-congelador:before {
+  content: "\ea05";
+}
+.alk-icon-minibar:before {
+  content: "\ea06";
+}
+.alk-icon-nevecon:before {
+  content: "\ea07";
 }
