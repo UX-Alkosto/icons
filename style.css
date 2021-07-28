@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src:  url('fonts/alk-icon.woff2?eco6fk');
-  src:  url('fonts/alk-icon.eot?eco6fk#iefix') format('embedded-opentype'),
-    url('fonts/alk-icon.ttf?eco6fk') format('truetype'),
-    url('fonts/alk-icon.woff2?eco6fk') format('woff2'),
-    url('fonts/alk-icon.woff?eco6fk') format('woff'),
-    url('fonts/alk-icon.svg?eco6fk#alk-icon') format('svg');
+  src:  url('fonts/alk-icon.woff2?yyoeid');
+  src:  url('fonts/alk-icon.eot?yyoeid#iefix') format('embedded-opentype'),
+    url('fonts/alk-icon.ttf?yyoeid') format('truetype'),
+    url('fonts/alk-icon.woff2?yyoeid') format('woff2'),
+    url('fonts/alk-icon.woff?yyoeid') format('woff'),
+    url('fonts/alk-icon.svg?yyoeid#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1085,24 +1085,24 @@
 .alk-icon-simbolo-k:before {
   content: "\e9ec";
 }
-.alk-icon-icon-carnes:before {
+.alk-icon-carnes:before {
   content: "\e9c5";
 }
-.alk-icon-icon-frutas-verduras:before {
+.alk-icon-frutas-verduras:before {
   content: "\e9d7";
 }
-.alk-icon-icon-alimentos-frescos:before {
+.alk-icon-alimentos-frescos:before {
   content: "\e9ea";
 }
-.alk-icon-icon-alimentos:before {
+.alk-icon-alimentos:before {
   content: "\ea64";
 }
-.alk-icon-icon-bebidas:before {
+.alk-icon-bebidas:before {
   content: "\ea65";
 }
-.alk-icon-icon-aseo-hogar:before {
+.alk-icon-aseo-hogar:before {
   content: "\ea66";
 }
-.alk-icon-icon-aseo-personal:before {
+.alk-icon-aseo-personal:before {
   content: "\ea67";
 }
