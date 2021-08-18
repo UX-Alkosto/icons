@@ -1,11 +1,10 @@
 @font-face {
   font-family: 'alk-icon';
-  src:  url('fonts/alk-icon.woff2?yyoeid');
-  src:  url('fonts/alk-icon.eot?yyoeid#iefix') format('embedded-opentype'),
-    url('fonts/alk-icon.ttf?yyoeid') format('truetype'),
-    url('fonts/alk-icon.woff2?yyoeid') format('woff2'),
-    url('fonts/alk-icon.woff?yyoeid') format('woff'),
-    url('fonts/alk-icon.svg?yyoeid#alk-icon') format('svg');
+  src:
+    url('fonts/alk-icon.woff2?b5pi59') format('woff2'),
+    url('fonts/alk-icon.ttf?b5pi59') format('truetype'),
+    url('fonts/alk-icon.woff?b5pi59') format('woff'),
+    url('fonts/alk-icon.svg?b5pi59#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1105,4 +1104,37 @@
 }
 .alk-icon-aseo-personal:before {
   content: "\ea67";
+}
+.alk-icon-alistamiento1:before {
+  content: "\ea6c";
+}
+.alk-icon-domicilio1:before {
+  content: "\ea6d";
+}
+.alk-icon-llegada-ciudad1:before {
+  content: "\ea6e";
+}
+.alk-icon-instalaciones1:before {
+  content: "\ea6f";
+}
+.alk-icon-desplazamiento-ciudad:before {
+  content: "\ea70";
+}
+.alk-icon-producto-entregado1:before {
+  content: "\ea71";
+}
+.alk-icon-moto-domicilio:before {
+  content: "\ea72";
+}
+.alk-icon-review:before {
+  content: "\ea68";
+}
+.alk-icon-info:before {
+  content: "\ea69";
+}
+.alk-icon-list:before {
+  content: "\ea6a";
+}
+.alk-icon-position:before {
+  content: "\ea6b";
 }
