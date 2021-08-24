@@ -1,11 +1,9 @@
 @font-face {
   font-family: 'alk-icon';
-  src:  url('fonts/alk-icon.woff2?yyoeid');
-  src:  url('fonts/alk-icon.eot?yyoeid#iefix') format('embedded-opentype'),
-    url('fonts/alk-icon.ttf?yyoeid') format('truetype'),
-    url('fonts/alk-icon.woff2?yyoeid') format('woff2'),
-    url('fonts/alk-icon.woff?yyoeid') format('woff'),
-    url('fonts/alk-icon.svg?yyoeid#alk-icon') format('svg');
+  src:
+    url('fonts/alk-icon.ttf?1j835m') format('truetype'),
+    url('fonts/alk-icon.woff?1j835m') format('woff'),
+    url('fonts/alk-icon.svg?1j835m#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1105,4 +1103,25 @@
 }
 .alk-icon-aseo-personal:before {
   content: "\ea67";
+}
+.alk-icon-desplazamiento-ciudad:before {
+  content: "\ea70";
+}
+.alk-icon-moto-domicilio:before {
+  content: "\ea72";
+}
+.alk-icon-review:before {
+  content: "\ea68";
+}
+.alk-icon-list:before {
+  content: "\ea6a";
+}
+.alk-icon-position:before {
+  content: "\ea6b";
+}
+.alk-icon-grid:before {
+  content: "\ea74";
+}
+.alk-icon-question:before {
+  content: "\ea75";
 }
