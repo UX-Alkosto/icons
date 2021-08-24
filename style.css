@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'alk-icon';
   src:
-  url('fonts/alk-icon.woff2?7g0iwi') format('woff2'),
-    url('fonts/alk-icon.ttf?7g0iwi') format('truetype'),
-    url('fonts/alk-icon.woff?7g0iwi') format('woff'),
-    url('fonts/alk-icon.svg?7g0iwi#alk-icon') format('svg');
+  url('fonts/alk-icon.woff2?3dh91f') format('woff2'),
+    url('fonts/alk-icon.ttf?3dh91f') format('truetype'),
+    url('fonts/alk-icon.woff?3dh91f') format('woff'),
+    url('fonts/alk-icon.svg?3dh91f#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1161,4 +1161,13 @@
 }
 .alk-icon-adorno-vineta:before {
   content: "\ea7a";
+}
+.alk-icon-almacenamiento-celular:before {
+  content: "\ea7b";
+}
+.alk-icon-memoria-celular:before {
+  content: "\ea7c";
+}
+.alk-icon-sistema-operativo-celular:before {
+  content: "\ea7d";
 }
