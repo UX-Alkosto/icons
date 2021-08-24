@@ -1,9 +1,10 @@
 @font-face {
   font-family: 'alk-icon';
   src:
-    url('fonts/alk-icon.ttf?1j835m') format('truetype'),
-    url('fonts/alk-icon.woff?1j835m') format('woff'),
-    url('fonts/alk-icon.svg?1j835m#alk-icon') format('svg');
+  url('fonts/alk-icon.woff2?7g0iwi') format('woff2'),
+    url('fonts/alk-icon.ttf?7g0iwi') format('truetype'),
+    url('fonts/alk-icon.woff?7g0iwi') format('woff'),
+    url('fonts/alk-icon.svg?7g0iwi#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1124,4 +1125,40 @@
 }
 .alk-icon-question:before {
   content: "\ea75";
+}
+.alk-icon-gastos-transporte:before {
+  content: "\ea69";
+}
+.alk-icon-memoria-ram:before {
+  content: "\ea6c";
+}
+.alk-icon-almacenamiento-pc:before {
+  content: "\ea6d";
+}
+.alk-icon-bateria-pc:before {
+  content: "\ea6e";
+}
+.alk-icon-hand-flecha-izquierda:before {
+  content: "\ea6f";
+}
+.alk-icon-hand-flecha-derecha:before {
+  content: "\ea71";
+}
+.alk-icon-reparacion:before {
+  content: "\ea73";
+}
+.alk-icon-averiado:before {
+  content: "\ea76";
+}
+.alk-icon-fallecimidento:before {
+  content: "\ea77";
+}
+.alk-icon-atencion-medica:before {
+  content: "\ea78";
+}
+.alk-icon-incapacidad:before {
+  content: "\ea79";
+}
+.alk-icon-adorno-vineta:before {
+  content: "\ea7a";
 }
