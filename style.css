@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url('fonts/alk-icon.woff2?bwcled') format('woff2');
-  src: url('fonts/alk-icon.woff2?bwcled') format('woff2'),
-    url('fonts/alk-icon.ttf?bwcled') format('truetype'),
-    url('fonts/alk-icon.woff?bwcled') format('woff'),
-    url('fonts/alk-icon.svg?bwcled#alk-icon') format('svg');
+  src: url('fonts/alk-icon.woff2?snoyaq') format('woff2');
+  src: url('fonts/alk-icon.woff2?snoyaq') format('woff2'),
+    url('fonts/alk-icon.ttf?snoyaq') format('truetype'),
+    url('fonts/alk-icon.woff?snoyaq') format('woff'),
+    url('fonts/alk-icon.svg?snoyaq#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1560,4 +1560,12 @@
 
 .alk-icon-sistema-operativo-celular:before {
   content: "\ea7d";
+}
+
+.alk-icon-producto:before {
+  content: "\ea80";
+}
+
+.alk-icon-pdf:before {
+  content: "\ea81";
 }
