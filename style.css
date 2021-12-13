@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url('fonts/alk-icon.woff2?ap2riy') format('woff2');
+  src: url('fonts/alk-icon.woff2?x4l0s5') format('woff2');
   src:
-    url('fonts/alk-icon.woff2?ap2riy') format('woff2'),
-    url('fonts/alk-icon.ttf?ap2riy') format('truetype'),
-    url('fonts/alk-icon.woff?ap2riy') format('woff'),
-    url('fonts/alk-icon.svg?ap2riy#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?x4l0s5') format('woff2'),
+    url('fonts/alk-icon.ttf?x4l0s5') format('truetype'),
+    url('fonts/alk-icon.woff?x4l0s5') format('woff'),
+    url('fonts/alk-icon.svg?x4l0s5#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1214,20 +1214,21 @@
 .alk-icon-barista:before {
   content: "\ea8b";
 }
-.alk-icon-bebida-cafe .path1:before {
+.alk-icon-bebida-cafe:before {
   content: "\ea8c";
-  color: ;
-}
-.alk-icon-bebida-cafe .path2:before {
-  content: "\ea8d";
-  margin-left: -1em;
-  color: ;
-}
-.alk-icon-bebida-cafe .path3:before {
-  content: "\ea8e";
-  margin-left: -1em;
-  color: ;
 }
 .alk-icon-halloween:before {
   content: "\ea8f";
+}
+.alk-icon-procesador:before {
+  content: "\ea8d";
+}
+.alk-icon-tarjeta-video:before {
+  content: "\ea8e";
+}
+.alk-icon-olla-multifuncional:before {
+  content: "\ea90";
+}
+.alk-icon-salud-bienestar:before {
+  content: "\ea91";
 }
