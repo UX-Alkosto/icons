@@ -1,12 +1,12 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?qvv6zj) format("woff2");
+  src: url(fonts/alk-icon.woff2?vc7f1e) format("woff2");
   src:
-    url(fonts/alk-icon.woff2?qvv6zj) format("woff2"),
-    url('fonts/alk-icon.ttf?qvv6zj') format('truetype'),
-    url('fonts/alk-icon.woff?qvv6zj') format('woff'),
-    url('fonts/alk-icon.svg?qvv6zj#alk-icon') format('svg');
-  font-weight: 400;
+    url('fonts/alk-icon.woff2?vc7f1e') format("woff2"),
+    url('fonts/alk-icon.ttf?vc7f1e') format('truetype'),
+    url('fonts/alk-icon.woff?vc7f1e') format('woff'),
+    url('fonts/alk-icon.svg?vc7f1e#alk-icon') format('svg');
+  font-weight: normal;
   font-style: normal;
   font-display: block;
 }
@@ -1249,4 +1249,13 @@
 }
 .alk-icon-buzo-hoodie-mujer:before {
   content: "\ea97";
+}
+.alk-icon-play-outline:before {
+  content: "\ea98";
+}
+.alk-icon-play-fill-outline:before {
+  content: "\ea99";
+}
+.alk-icon-play-fill:before {
+  content: "\ea9a";
 }
