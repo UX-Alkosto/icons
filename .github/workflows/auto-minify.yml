@@ -1,7 +1,7 @@
 name: "Auto Minify"
 on:
   push:
-    branches: [ dev ]
+    branches: [ master ]
     
 jobs:
   analyze:
