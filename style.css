@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?fr8ub4) format("woff2");
+  src: url(fonts/alk-icon.woff2?xk6duh) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?fr8ub4') format("woff2"),
-    url('fonts/alk-icon.ttf?fr8ub4') format('truetype'),
-    url('fonts/alk-icon.woff?fr8ub4') format('woff'),
-    url('fonts/alk-icon.svg?fr8ub4#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?xk6duh') format("woff2"),
+    url('fonts/alk-icon.ttf?xk6duh') format('truetype'),
+    url('fonts/alk-icon.woff?xk6duh') format('woff'),
+    url('fonts/alk-icon.svg?xk6duh#alk-icon') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -1267,4 +1267,7 @@
 }
 .alk-icon-recibo-pago:before {
   content: "\ea9d";
+}
+.alk-icon-especificaciones:before {
+  content: "\ea9e";
 }
