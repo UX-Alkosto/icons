@@ -1,6 +1,8 @@
 @font-face {
   font-family: 'alk-icon';
+  src: url(fonts/alk-icon.woff2?yq89to) format("woff2");
   src:
+    url('fonts/alk-icon.woff2?yq89to') format("woff2"),
     url('fonts/alk-icon.ttf?yq89to') format('truetype'),
     url('fonts/alk-icon.woff?yq89to') format('woff'),
     url('fonts/alk-icon.svg?yq89to#alk-icon') format('svg');
