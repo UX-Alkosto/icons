@@ -1,16 +1,17 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?xk6duh) format("woff2");
+  src: url(fonts/alk-icon.woff2?imb7la) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?xk6duh') format('woff2'),
-    url('fonts/alk-icon.ttf?xk6duh') format('truetype'),
-    url('fonts/alk-icon.woff?xk6duh') format('woff'),
-    url('fonts/alk-icon.svg?xk6duh#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?imb7la') format('woff2'),
+    url('fonts/alk-icon.ttf?imb7la') format('truetype'),
+    url('fonts/alk-icon.woff?imb7la') format('woff'),
+    url('fonts/alk-icon.svg?imb7la#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1277,4 +1278,7 @@
 }
 .alk-icon-devoluciones-30:before {
   content: "\eaa0";
+}
+.alk-icon-ordenar:before {
+  content: "\eaa1";
 }
