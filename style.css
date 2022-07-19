@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?imb7la) format("woff2");
+  src: url(fonts/alk-icon.woff2?j7h9z4) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?imb7la') format('woff2'),
-    url('fonts/alk-icon.ttf?imb7la') format('truetype'),
-    url('fonts/alk-icon.woff?imb7la') format('woff'),
-    url('fonts/alk-icon.svg?imb7la#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?j7h9z4') format('woff2'),
+    url('fonts/alk-icon.ttf?j7h9z4') format('truetype'),
+    url('fonts/alk-icon.woff?j7h9z4') format('woff'),
+    url('fonts/alk-icon.svg?j7h9z4#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -26,6 +26,7 @@
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
+
 .alk-icon-asistente-voz:before {
   content: "\e902";
 }
@@ -1279,4 +1280,22 @@
 }
 .alk-icon-ordenar:before {
   content: "\eaa1";
+}
+.alk-icon-afeitadora:before {
+  content: "\eaa2";
+}
+.alk-icon-exprimidor:before {
+  content: "\eaa3";
+}
+.alk-icon-horno-tostador:before {
+  content: "\eaa4";
+}
+.alk-icon-plancha-pelo:before {
+  content: "\eaa5";
+}
+.alk-icon-sanduchera:before {
+  content: "\eaa6";
+}
+.alk-icon-sarten-electrico:before {
+  content: "\eaa7";
 }
