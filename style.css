@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?igz9iv) format("woff2");
+  src: url(fonts/alk-icon.woff2?a8a1kt) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?igz9iv') format('woff2'),
-    url('fonts/alk-icon.ttf?igz9iv') format('truetype'),
-    url('fonts/alk-icon.woff?igz9iv') format('woff'),
-    url('fonts/alk-icon.svg?igz9iv#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?a8a1kt') format('woff2'),
+    url('fonts/alk-icon.ttf?a8a1kt') format('truetype'),
+    url('fonts/alk-icon.woff?a8a1kt') format('woff'),
+    url('fonts/alk-icon.svg?a8a1kt#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1337,4 +1337,7 @@
 }
 .alk-icon-guardar:before {
   content: "\eab4";
+}
+.alk-icon-person-account:before {
+  content: "\eab5";
 }
