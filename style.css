@@ -1,19 +1,16 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?ns1c4b) format("woff2");
+  src: url(fonts/alk-icon.woff2?a4atkf) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?ns1c4b') format('woff2'),
-    url('fonts/alk-icon.ttf?ns1c4b') format('truetype'),
-    url('fonts/alk-icon.woff?ns1c4b') format('woff'),
-    url('fonts/alk-icon.svg?ns1c4b#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?a4atkf') format('woff2'),
+    url('fonts/alk-icon.ttf?a4atkf') format('truetype'),
+    url('fonts/alk-icon.woff?a4atkf') format('woff'),
+    url('fonts/alk-icon.svg?a4atkf#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
-
-
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1346,4 +1343,13 @@
 }
 .alk-icon-raclette:before {
   content: "\eab6";
+}
+.alk-icon-x-twitter:before {
+  content: "\eab7";
+}
+.alk-icon-arrow-price:before {
+  content: "\eab8";
+}
+.alk-icon-box-complete:before {
+  content: "\eab9";
 }
