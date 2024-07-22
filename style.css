@@ -1,16 +1,19 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?a8a1kt) format("woff2");
+  src: url(fonts/alk-icon.woff2?ns1c4b) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?a8a1kt') format('woff2'),
-    url('fonts/alk-icon.ttf?a8a1kt') format('truetype'),
-    url('fonts/alk-icon.woff?a8a1kt') format('woff'),
-    url('fonts/alk-icon.svg?a8a1kt#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?ns1c4b') format('woff2'),
+    url('fonts/alk-icon.ttf?ns1c4b') format('truetype'),
+    url('fonts/alk-icon.woff?ns1c4b') format('woff'),
+    url('fonts/alk-icon.svg?ns1c4b#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
+
+
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1340,4 +1343,7 @@
 }
 .alk-icon-person-account:before {
   content: "\eab5";
+}
+.alk-icon-raclette:before {
+  content: "\eab6";
 }
