@@ -1,17 +1,16 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?agr7ee) format("woff2");
+  src: url(fonts/alk-icon.woff2?yiqzd4) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?agr7ee') format('woff2'),
-    url('fonts/alk-icon.ttf?agr7ee') format('truetype'),
-    url('fonts/alk-icon.woff?agr7ee') format('woff'),
-    url('fonts/alk-icon.svg?agr7ee#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?yiqzd4') format('woff2'),
+    url('fonts/alk-icon.ttf?yiqzd4') format('truetype'),
+    url('fonts/alk-icon.woff?yiqzd4') format('woff'),
+    url('fonts/alk-icon.svg?yiqzd4#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1359,4 +1358,109 @@
 }
 .alk-icon-close-searchbox:before {
   content: "\eabb";
+}
+.alk-icon-alimento-mascotas:before {
+  content: "\eabc";
+}
+.alk-icon-iamplificador-sonido:before {
+  content: "\eabd";
+}
+.alk-icon-barra-sonido:before {
+  content: "\eabe";
+}
+.alk-icon-cafetera:before {
+  content: "\eabf";
+}
+.alk-icon-canasto-decorativo:before {
+  content: "\eac0";
+}
+.alk-icon-candelabro:before {
+  content: "\eac1";
+}
+.alk-icon-carro-control:before {
+  content: "\eac2";
+}
+.alk-icon-cortina-bano:before {
+  content: "\eac3";
+}
+.alk-icon-email-2:before {
+  content: "\eac5";
+}
+.alk-icon-empty-star:before {
+  content: "\eac6";
+}
+.alk-icon-full-star:before {
+  content: "\eac7";
+}
+.alk-icon-ganador-bono:before {
+  content: "\eac8";
+}
+.alk-icon-gato-carro:before {
+  content: "\eac9";
+}
+.alk-icon-herramienta-carro:before {
+  content: "\eaca";
+}
+.alk-icon-show-password:before {
+  content: "\eacb";
+}
+.alk-icon-hide-password:before {
+  content: "\eacc";
+}
+.alk-icon-icon-hidrolavadora:before {
+  content: "\eacd";
+}
+.alk-icon-maletero-moto:before {
+  content: "\eace";
+}
+.alk-icon-mantenimiento-carro:before {
+  content: "\eacf";
+}
+.alk-icon-maquina-coser:before {
+  content: "\ead0";
+}
+.alk-icon-medicamento-bebe:before {
+  content: "\ead1";
+}
+.alk-icon-molde:before {
+  content: "\ead2";
+}
+.alk-icon-molde-nevera:before {
+  content: "\ead3";
+}
+.alk-icon-mueble-bano:before {
+  content: "\ead4";
+}
+.alk-icon-olla-arrocera:before {
+  content: "\ead5";
+}
+.alk-icon-panos-bebe:before {
+  content: "\ead6";
+}
+.alk-icon-pelota-playa:before {
+  content: "\ead7";
+}
+.alk-icon-pista-carros:before {
+  content: "\ead8";
+}
+.alk-icon-pregunta-2:before {
+  content: "\eada";
+}
+.alk-icon-procesador-alimentos:before {
+  content: "\eadb";
+}
+.alk-icon-rummiq:before {
+  content: "\eadc";
+}
+.alk-icon-seguro-motos:before {
+  content: "\eadd";
+}
+.alk-icon-sms:before {
+  content: "\eade";
+}
+.alk-icon-tapete-carro:before {
+  content: "\eadf";
+}
+.alk-icon-toy-car:before {
+  content: "\eae0";
 }
