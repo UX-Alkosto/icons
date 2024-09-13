@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?yiqzd4) format("woff2");
+  src: url(fonts/alk-icon.woff2?jqoksp) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?yiqzd4') format('woff2'),
-    url('fonts/alk-icon.ttf?yiqzd4') format('truetype'),
-    url('fonts/alk-icon.woff?yiqzd4') format('woff'),
-    url('fonts/alk-icon.svg?yiqzd4#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?jqoksp') format('woff2'),
+    url('fonts/alk-icon.ttf?jqoksp') format('truetype'),
+    url('fonts/alk-icon.woff?jqoksp') format('woff'),
+    url('fonts/alk-icon.svg?jqoksp#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -963,9 +963,6 @@
 .alk-icon-check-only:before {
   content: "\e9de";
 }
-.alk-icon-menos:before {
-  content: "\e9ce";
-}
 .alk-icon-plus:before {
   content: "\e9e6";
 }
@@ -1305,9 +1302,6 @@
 .alk-icon-dia-manana:before {
   content: "\eaa9";
 }
-.alk-icon-dia-tarde:before {
-  content: "\eaaa";
-}
 .alk-icon-pin-generico:before {
   content: "\eaab";
 }
@@ -1463,4 +1457,7 @@
 }
 .alk-icon-toy-car:before {
   content: "\eae0";
+}
+.alk-icon-menos:before {
+  content: "\e9ce";
 }
