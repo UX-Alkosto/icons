@@ -1,17 +1,17 @@
+
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?78u8cj) format("woff2");
+  src: url(fonts/alk-icon.woff2?p3d9qz) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?78u8cj') format('woff2'),
-    url('fonts/alk-icon.ttf?78u8cj') format('truetype'),
-    url('fonts/alk-icon.woff?78u8cj') format('woff'),
-    url('fonts/alk-icon.svg?78u8cj#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?p3d9qz') format('woff2'),
+    url('fonts/alk-icon.ttf?p3d9qz') format('truetype'),
+    url('fonts/alk-icon.woff?p3d9qz') format('woff'),
+    url('fonts/alk-icon.svg?p3d9qz#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1461,6 +1461,9 @@
 }
 .alk-icon-toy-car:before {
   content: "\eae0";
+}
+.alk-icon-galeria-imagen:before {
+  content: "\eac4";
 }
 .alk-icon-menos:before {
   content: "\e9ce";
