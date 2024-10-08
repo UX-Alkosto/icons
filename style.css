@@ -1,17 +1,30 @@
+@font-face {
+  font-family: 'alk-icon';
+  src:
+    url('fonts/alk-icon.ttf?flouwn') format('truetype'),
+    url('fonts/alk-icon.woff?flouwn') format('woff'),
+    url('fonts/alk-icon.svg?flouwn#alk-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
 
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?p3d9qz) format("woff2");
+  src: url(fonts/alk-icon.woff2?flouwn) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?p3d9qz') format('woff2'),
-    url('fonts/alk-icon.ttf?p3d9qz') format('truetype'),
-    url('fonts/alk-icon.woff?p3d9qz') format('woff'),
-    url('fonts/alk-icon.svg?p3d9qz#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?flouwn') format('woff2'),
+    url('fonts/alk-icon.ttf?flouwn') format('truetype'),
+    url('fonts/alk-icon.woff?flouwn') format('woff'),
+    url('fonts/alk-icon.svg?flouwn#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
+
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1467,4 +1480,7 @@
 }
 .alk-icon-menos:before {
   content: "\e9ce";
+}
+.alk-icon-20-minutos-reloj:before {
+  content: "\ead9";
 }
