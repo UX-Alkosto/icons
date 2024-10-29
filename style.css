@@ -1,29 +1,16 @@
 @font-face {
   font-family: 'alk-icon';
+  src: url(fonts/alk-icon.woff2?jrkdc8) format("woff2");
   src:
-    url('fonts/alk-icon.ttf?flouwn') format('truetype'),
-    url('fonts/alk-icon.woff?flouwn') format('woff'),
-    url('fonts/alk-icon.svg?flouwn#alk-icon') format('svg');
-  font-weight: normal;
-  font-style: normal;
-  font-display: block;
-}
-
-
-@font-face {
-  font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?flouwn) format("woff2");
-  src:
-    url('fonts/alk-icon.woff2?flouwn') format('woff2'),
-    url('fonts/alk-icon.ttf?flouwn') format('truetype'),
-    url('fonts/alk-icon.woff?flouwn') format('woff'),
-    url('fonts/alk-icon.svg?flouwn#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?jrkdc8') format('woff2'),
+    url('fonts/alk-icon.ttf?jrkdc8') format('truetype'),
+    url('fonts/alk-icon.woff?jrkdc8') format('woff'),
+    url('fonts/alk-icon.svg?jrkdc8#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
 
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
@@ -1418,7 +1405,7 @@
 .alk-icon-hide-password:before {
   content: "\eacc";
 }
-.alk-icon-icon-hidrolavadora:before {
+.alk-icon-hidrolavadora:before {
   content: "\eacd";
 }
 .alk-icon-maletero-moto:before {
@@ -1483,4 +1470,70 @@
 }
 .alk-icon-20-minutos-reloj:before {
   content: "\ead9";
+}
+.alk-icon-balance:before {
+  content: "\eae1";
+}
+.alk-icon-alerta:before {
+  content: "\eae2";
+}
+.alk-icon-paz-salvo:before {
+  content: "\eae3";
+}
+.alk-icon-clickeable:before {
+  content: "\eae4";
+}
+.alk-icon-moto-moderna:before {
+  content: "\eae5";
+}
+.alk-icon-cambio-celular:before {
+  content: "\eae6";
+}
+.alk-icon-juegos-de-video1:before {
+  content: "\eae7";
+}
+.alk-icon-mercado-bebidas:before {
+  content: "\eae8";
+}
+.alk-icon-load:before {
+  content: "\eae9";
+}
+.alk-icon-nosotros:before {
+  content: "\eaea";
+}
+.alk-icon-seguros1:before {
+  content: "\eaeb";
+}
+.alk-icon-mail:before {
+  content: "\eaec";
+}
+.alk-icon-30-dias:before {
+  content: "\eaed";
+}
+.alk-icon-chat:before {
+  content: "\eaee";
+}
+.alk-icon-delivery-in-progress:before {
+  content: "\eaef";
+}
+.alk-icon-delivery-upcoming:before {
+  content: "\eaf0";
+}
+.alk-icon-delivery-check:before {
+  content: "\eaf1";
+}
+.alk-icon-dgo:before {
+  content: "\eaf2";
+}
+.alk-icon-win-sports:before {
+  content: "\eaf3";
+}
+.alk-icon-limpieza-carro:before {
+  content: "\eaf4";
+}
+.alk-icon-aspiradora-carro:before {
+  content: "\eaf5";
+}
+.alk-icon-gimnasio-bebe:before {
+  content: "\eaf6";
 }
