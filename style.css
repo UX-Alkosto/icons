@@ -1,12 +1,11 @@
-
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?gjza42) format("woff2");
+  src: url(fonts/alk-icon.woff2?cu97qa) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?gjza42') format('woff2'),
-    url('fonts/alk-icon.ttf?gjza42') format('truetype'),
-    url('fonts/alk-icon.woff?gjza42') format('woff'),
-    url('fonts/alk-icon.svg?gjza42#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?cu97qa') format('woff2'),
+    url('fonts/alk-icon.ttf?cu97qa') format('truetype'),
+    url('fonts/alk-icon.woff?cu97qa') format('woff'),
+    url('fonts/alk-icon.svg?cu97qa#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1536,4 +1535,10 @@
 }
 .alk-icon-gimnasio-bebe:before {
   content: "\eaf6";
+}
+.alk-icon-limpieza-mascota:before {
+  content: "\eaf7";
+}
+.alk-icon-ancheta:before {
+  content: "\eaf8";
 }
