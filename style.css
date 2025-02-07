@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?1eo6d8) format("woff2");
+  src: url(fonts/alk-icon.woff2?h216bi) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?1eo6d8') format('woff2'),
-    url('fonts/alk-icon.ttf?1eo6d8') format('truetype'),
-    url('fonts/alk-icon.woff?1eo6d8') format('woff'),
-    url('fonts/alk-icon.svg?1eo6d8#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?h216bi') format('woff2'),
+    url('fonts/alk-icon.ttf?h216bi') format('truetype'),
+    url('fonts/alk-icon.woff?h216bi') format('woff'),
+    url('fonts/alk-icon.svg?h216bi#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1475,4 +1475,31 @@
 }
 .alk-icon-wishlist-full:before {
   content: "\eae2";
+}
+.alk-icon-ciclo:before {
+  content: "\eae3";
+}
+.alk-icon-coccion-uniforme:before {
+  content: "\eae4";
+}
+.alk-icon-reciclar:before {
+  content: "\eae5";
+}
+.alk-icon-saludable:before {
+  content: "\eae6";
+}
+.alk-icon-sarten-antiadherente:before {
+  content: "\eae7";
+}
+.alk-icon-sarten-ergonomico:before {
+  content: "\eae8";
+}
+.alk-icon-sarten-resistente:before {
+  content: "\eae9";
+}
+.alk-icon-sarten-tamanos:before {
+  content: "\eaea";
+}
+.alk-icon-sarten-temperatura:before {
+  content: "\eaeb";
 }
