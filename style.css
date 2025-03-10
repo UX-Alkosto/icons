@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?h216bi) format("woff2");
+  src: url(fonts/alk-icon.woff2?y4m660) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?h216bi') format('woff2'),
-    url('fonts/alk-icon.ttf?h216bi') format('truetype'),
-    url('fonts/alk-icon.woff?h216bi') format('woff'),
-    url('fonts/alk-icon.svg?h216bi#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?y4m660') format('woff2'),
+    url('fonts/alk-icon.ttf?y4m660') format('truetype'),
+    url('fonts/alk-icon.woff?y4m660') format('woff'),
+    url('fonts/alk-icon.svgy4m660#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1502,4 +1502,13 @@
 }
 .alk-icon-sarten-temperatura:before {
   content: "\eaeb";
+}
+.alk-icon-add-credit-card:before {
+  content: "\eaec";
+}
+.alk-icon-bono:before {
+  content: "\eaed";
+}
+.alk-icon-shopping-order:before {
+  content: "\eaee";
 }
