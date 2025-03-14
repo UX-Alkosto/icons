@@ -1,16 +1,31 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?y4m660) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?y4m660') format('woff2'),
-    url('fonts/alk-icon.ttf?y4m660') format('truetype'),
-    url('fonts/alk-icon.woff?y4m660') format('woff'),
-    url('fonts/alk-icon.svgy4m660#alk-icon') format('svg');
+    url('fonts/alk-icon.ttf?vrvjny') format('truetype'),
+    url('fonts/alk-icon.woff?vrvjny') format('woff'),
+    url('fonts/alk-icon.svg?vrvjny#alk-icon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+
+@font-face {
+  font-family: 'alk-icon';
+  src: url(fonts/alk-icon.woff2?vrvjny) format("woff2");
+  src:
+    url('fonts/alk-icon.woff2?vrvjny') format('woff2'),
+    url('fonts/alk-icon.ttf?vrvjny') format('truetype'),
+    url('fonts/alk-icon.woff?vrvjny') format('woff'),
+    url('fonts/alk-icon.svgvrvjny#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
+
+
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1511,4 +1526,13 @@
 }
 .alk-icon-shopping-order:before {
   content: "\eaee";
+}
+.alk-icon-bono-cambio:before {
+  content: "\eaef";
+}
+.alk-icon-bono-regalo:before {
+  content: "\eaf0";
+}
+.alk-icon-copy:before {
+  content: "\eaf1";
 }
