@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?7nktkj) format("woff2");
+  src: url(fonts/alk-icon.woff2?aq7lrf) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?7nktkj') format('woff2'),
-    url('fonts/alk-icon.ttf?7nktkj') format('truetype'),
-    url('fonts/alk-icon.woff?7nktkj') format('woff'),
-    url('fonts/alk-icon.svg7nktkj#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?aq7lrf') format('woff2'),
+    url('fonts/alk-icon.ttf?aq7lrf') format('truetype'),
+    url('fonts/alk-icon.woff?aq7lrf') format('woff'),
+    url('fonts/alk-icon.svgaq7lrf#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1523,4 +1523,64 @@
 }
 .alk-icon-opcion-envio-celular:before {
   content: "\eaf2";
+}
+.alk-icon-almohada-firme:before {
+  content: "\eaf3";
+}
+.alk-icon-almohada-medio .path1:before {
+  content: "\eaf4";
+  color: rgb(0, 0, 0);
+}
+.alk-icon-almohada-medio .path2:before {
+  content: "\eaf5";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.alk-icon-almohada-medio .path3:before {
+  content: "\eaf6";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.alk-icon-almohada-medio .path4:before {
+  content: "\eaf7";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.alk-icon-almohada-medio .path5:before {
+  content: "\eaf8";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.alk-icon-almohada-medio .path6:before {
+  content: "\eaf9";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.alk-icon-almohada-medio .path7:before {
+  content: "\eafa";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.alk-icon-almohada-medio .path8:before {
+  content: "\eafb";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.alk-icon-almohada-suave:before {
+  content: "\eafc";
+}
+.alk-icon-dormir-abajo:before {
+  content: "\eafd";
+}
+.alk-icon-dormir-arriba:before {
+  content: "\eafe";
+}
+.alk-icon-dormir-lado:before {
+  content: "\eaff";
+}
+.alk-icon-dos-almohadas:before {
+  content: "\eb00";
+}
+.alk-icon-cuatro-almohadas:before {
+  content: "\eb01";
 }
