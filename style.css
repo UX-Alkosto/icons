@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?5agazx) format("woff2");
+  src: url(fonts/alk-icon.woff2?o3a97g) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?5agazx') format('woff2'),
-    url('fonts/alk-icon.ttf?5agazx') format('truetype'),
-    url('fonts/alk-icon.woff?5agazx') format('woff'),
-    url('fonts/alk-icon.svg5agazx#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?o3a97g') format('woff2'),
+    url('fonts/alk-icon.ttf?o3a97g') format('truetype'),
+    url('fonts/alk-icon.woff?o3a97g') format('woff'),
+    url('fonts/alk-icon.svgo3a97g#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1586,4 +1586,10 @@
 }
 .alk-icon-galeria-imagen:before {
   content: "\eb02";
+}
+.alk-icon-addi:before {
+  content: "\eb03";
+}
+.alk-icon-retoma-celulares:before {
+  content: "\eb04";
 }
