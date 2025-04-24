@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?to6uq9) format("woff2");
+  src: url(fonts/alk-icon.woff2?eopdbf) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?to6uq9') format('woff2'),
-    url('fonts/alk-icon.ttf?to6uq9') format('truetype'),
-    url('fonts/alk-icon.woff?to6uq9') format('woff'),
-    url('fonts/alk-icon.svgoto6uq9#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?eopdbf') format('woff2'),
+    url('fonts/alk-icon.ttf?eopdbf') format('truetype'),
+    url('fonts/alk-icon.woff?eopdbf') format('woff'),
+    url('fonts/alk-icon.svgeopdbf#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1604,4 +1604,16 @@
 }
 .alk-icon-termo-calidad:before {
   content: "\eb08";
+}
+.alk-icon-win-sports:before {
+  content: "\eb09";
+}
+.alk-icon-dgo:before {
+  content: "\eb0a";
+}
+.alk-icon-moto-automatica:before {
+  content: "\eb0b";
+}
+.alk-icon-moto-carguero:before {
+  content: "\eb0c";
 }
