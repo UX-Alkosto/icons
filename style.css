@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?13ohu2) format("woff2");
+  src: url(fonts/alk-icon.woff2?gej66n) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?13ohu2') format('woff2'),
-    url('fonts/alk-icon.ttf?13ohu2') format('truetype'),
-    url('fonts/alk-icon.woff?13ohu2') format('woff'),
-    url('fonts/alk-icon.svg13ohu2#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?gej66n') format('woff2'),
+    url('fonts/alk-icon.ttf?gej66n') format('truetype'),
+    url('fonts/alk-icon.woff?gej66n') format('woff'),
+    url('fonts/alk-icon.svggej66n#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1625,4 +1625,16 @@
 }
 .alk-icon-bicicleta-ruta:before {
   content: "\eb0f";
+}
+.alk-icon-aspiradora-carro:before {
+  content: "\eb10";
+}
+.alk-icon-hidrolavadora:before {
+  content: "\eb11";
+}
+.alk-icon-limpieza-carro:before {
+  content: "\eb12";
+}
+.alk-icon-moto-moderna:before {
+  content: "\eb13";
 }
