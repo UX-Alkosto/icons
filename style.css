@@ -1,16 +1,18 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?gej66n) format("woff2");
+  src: url(fonts/alk-icon.woff2?abfqcb) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?gej66n') format('woff2'),
-    url('fonts/alk-icon.ttf?gej66n') format('truetype'),
-    url('fonts/alk-icon.woff?gej66n') format('woff'),
-    url('fonts/alk-icon.svggej66n#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?abfqcb') format('woff2'),
+    url('fonts/alk-icon.ttf?abfqcb') format('truetype'),
+    url('fonts/alk-icon.woff?abfqcb') format('woff'),
+    url('fonts/alk-icon.svgabfqcb#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
+
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1637,4 +1639,46 @@
 }
 .alk-icon-moto-moderna:before {
   content: "\eb13";
+}
+.alk-icon-rigidez-medio .path1:before {
+  content: "\eb14";
+  color: rgb(1, 1, 1);
+}
+.alk-icon-rigidez-medio .path2:before {
+  content: "\eb15";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.alk-icon-rigidez-medio .path3:before {
+  content: "\eb16";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.alk-icon-rigidez-medio .path4:before {
+  content: "\eb17";
+  margin-left: -1em;
+  color: rgb(1, 1, 1);
+}
+.alk-icon-rigidez-medio .path5:before {
+  content: "\eb18";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.alk-icon-rigidez-medio .path6:before {
+  content: "\eb19";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.alk-icon-rigidez-medio .path7:before {
+  content: "\eb1a";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.alk-icon-rigidez-medio .path8:before {
+  content: "\eb1b";
+  margin-left: -1em;
+  color: rgb(0, 0, 0);
+}
+.alk-icon-cuidado-dental:before {
+  content: "\eb1c";
 }
