@@ -1,17 +1,16 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?wtb2e6) format("woff2");
+  src: url(fonts/alk-icon.woff2?syxarh) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?wtb2e6') format('woff2'),
-    url('fonts/alk-icon.ttf?wtb2e6') format('truetype'),
-    url('fonts/alk-icon.woff?wtb2e6') format('woff'),
-    url('fonts/alk-icon.svg?wtb2e6#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?syxarh') format('woff2'),
+    url('fonts/alk-icon.ttf?syxarh') format('truetype'),
+    url('fonts/alk-icon.woff?syxarh') format('woff'),
+    url('fonts/alk-icon.svg?syxarh#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
 
 
 
@@ -1613,4 +1612,19 @@
 }
 .alk-icon-gimnasio-bebe:before {
   content: "\eaf5";
+}
+.alk-icon-combo-colchon:before {
+  content: "\eaf6";
+}
+.alk-icon-precio-bajo:before {
+  content: "\eaf7";
+}
+.alk-icon-precio-medio:before {
+  content: "\eaf8";
+}
+.alk-icon-precio-alto:before {
+  content: "\eaf9";
+}
+.alk-icon-precio-premium:before {
+  content: "\eafa";
 }
