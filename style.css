@@ -1,17 +1,16 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?qj8q01) format("woff2");
+  src: url(fonts/alk-icon.woff2?pqua6s) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?qj8q01') format('woff2'),
-    url('fonts/alk-icon.ttf?qj8q01') format('truetype'),
-    url('fonts/alk-icon.woff?qj8q01') format('woff'),
-    url('fonts/alk-icon.svg?qj8q01#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?pqua6s') format('woff2'),
+    url('fonts/alk-icon.ttf?pqua6s') format('truetype'),
+    url('fonts/alk-icon.woff?pqua6s') format('woff'),
+    url('fonts/alk-icon.svg?pqua6s#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
 
 
 
@@ -1637,4 +1636,7 @@
 }
 .alk-icon-combo-electro:before {
   content: "\eb16";
+}
+.alk-icon-maquina-expresso:before {
+  content: "\eb17";
 }
