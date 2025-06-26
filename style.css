@@ -1,16 +1,17 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?syxarh) format("woff2");
+  src: url(fonts/alk-icon.woff2?qj8q01) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?syxarh') format('woff2'),
-    url('fonts/alk-icon.ttf?syxarh') format('truetype'),
-    url('fonts/alk-icon.woff?syxarh') format('woff'),
-    url('fonts/alk-icon.svg?syxarh#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?qj8q01') format('woff2'),
+    url('fonts/alk-icon.ttf?qj8q01') format('truetype'),
+    url('fonts/alk-icon.woff?qj8q01') format('woff'),
+    url('fonts/alk-icon.svg?qj8q01#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
 
 
 
@@ -1627,4 +1628,13 @@
 }
 .alk-icon-precio-premium:before {
   content: "\eafa";
+}
+.alk-icon-combo-personal:before {
+  content: "\eafb";
+}
+.alk-icon-combo-hogar:before {
+  content: "\eb15";
+}
+.alk-icon-combo-electro:before {
+  content: "\eb16";
 }
