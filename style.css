@@ -1,22 +1,16 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?x1cpyl) format("woff2");
+  src: url(fonts/alk-icon.woff2?t2twrb) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?x1cpyl') format('woff2'),
-    url('fonts/alk-icon.ttf?x1cpyl') format('truetype'),
-    url('fonts/alk-icon.woff?x1cpyl') format('woff'),
-    url('fonts/alk-icon.svg?x1cpyl#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?t2twrb') format('woff2'),
+    url('fonts/alk-icon.ttf?t2twrb') format('truetype'),
+    url('fonts/alk-icon.woff?t2twrb') format('woff'),
+    url('fonts/alk-icon.svg?t2twrb#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
-
-
-
-
-
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
@@ -1652,4 +1646,13 @@
 }
 .alk-icon-pin-educacion:before {
   content: "\eb1a";
+}
+.alk-icon-vaso:before {
+  content: "\eb1b";
+}
+.alk-icon-proyector-empresarial:before {
+  content: "\eb1d";
+}
+.alk-icon-hielo:before {
+  content: "\eb1e";
 }
