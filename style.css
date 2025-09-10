@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?7a9x1h) format("woff2");
+  src: url(fonts/alk-icon.woff2?89impj) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?7a9x1h') format('woff2'),
-    url('fonts/alk-icon.ttf?7a9x1h') format('truetype'),
-    url('fonts/alk-icon.woff?7a9x1h') format('woff'),
-    url('fonts/alk-icon.svg?7a9x1h#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?89impj') format('woff2'),
+    url('fonts/alk-icon.ttf?89impj') format('truetype'),
+    url('fonts/alk-icon.woff?89impj') format('woff'),
+    url('fonts/alk-icon.svg?89impj#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1661,4 +1661,7 @@
 }
 .alk-icon-aspiradora-robotica:before {
   content: "\eb20";
+}
+.alk-icon-ultimos-lanzamientos:before {
+  content: "\eb21";
 }
