@@ -1,18 +1,16 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?orzufo) format("woff2");
+  src: url(fonts/alk-icon.woff2?flsx9i) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?orzufo') format('woff2'),
-    url('fonts/alk-icon.ttf?orzufo') format('truetype'),
-    url('fonts/alk-icon.woff?orzufo') format('woff'),
-    url('fonts/alk-icon.svg?orzufo#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?flsx9i') format('woff2'),
+    url('fonts/alk-icon.ttf?flsx9i') format('truetype'),
+    url('fonts/alk-icon.woff?flsx9i') format('woff'),
+    url('fonts/alk-icon.svg?flsx9i#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
-
-
 
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
@@ -1667,4 +1665,16 @@
 }
 .alk-icon-ultimos-lanzamientos:before {
   content: "\eb21";
+}
+.alk-icon-decoracion-arbol:before {
+  content: "\eb22";
+}
+.alk-icon-decoracion-navidad-hogar:before {
+  content: "\eb23";
+}
+.alk-icon-luces-navidad:before {
+  content: "\eb24";
+}
+.alk-icon-arbol-navidad:before {
+  content: "\eb25";
 }
