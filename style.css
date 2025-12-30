@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?fez7hr) format("woff2");
+  src: url(fonts/alk-icon.woff2?4pzqfr) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?fez7hr') format('woff2'),
-    url('fonts/alk-icon.ttf?fez7hr') format('truetype'),
-    url('fonts/alk-icon.woff?fez7hr') format('woff'),
-    url('fonts/alk-icon.svg?fez7hr#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?4pzqfr') format('woff2'),
+    url('fonts/alk-icon.ttf?4pzqfr') format('truetype'),
+    url('fonts/alk-icon.woff?4pzqfr') format('woff'),
+    url('fonts/alk-icon.svg?4pzqfr#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1707,4 +1707,49 @@
 }
 .alk-icon-agregar-documento-persona:before {
   content: "\eb2f";
+}
+.alk-icon-antena:before {
+  content: "\eb30";
+}
+.alk-icon-bluetooth:before {
+  content: "\eb31";
+}
+.alk-icon-campana:before {
+  content: "\eb32";
+}
+.alk-icon-decodificador:before {
+  content: "\eb33";
+}
+.alk-icon-ethernet:before {
+  content: "\eb34";
+}
+.alk-icon-gas:before {
+  content: "\eb35";
+}
+.alk-icon-interruptor:before {
+  content: "\eb36";
+}
+.alk-icon-lavavajilla:before {
+  content: "\eb37";
+}
+.alk-icon-lente:before {
+  content: "\eb38";
+}
+.alk-icon-microsoft:before {
+  content: "\eb39";
+}
+.alk-icon-multitoma:before {
+  content: "\eb3a";
+}
+.alk-icon-silla-gamer:before {
+  content: "\eb3b";
+}
+.alk-icon-subwoofer:before {
+  content: "\eb3c";
+}
+.alk-icon-telefono-viejo:before {
+  content: "\eb3d";
+}
+.alk-icon-ups:before {
+  content: "\eb3e";
 }
