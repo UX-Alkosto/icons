@@ -1,16 +1,21 @@
+
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?4pzqfr) format("woff2");
+  src: url(fonts/alk-icon.woff2?rj7cvg) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?4pzqfr') format('woff2'),
-    url('fonts/alk-icon.ttf?4pzqfr') format('truetype'),
-    url('fonts/alk-icon.woff?4pzqfr') format('woff'),
-    url('fonts/alk-icon.svg?4pzqfr#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?rj7cvg') format('woff2'),
+    url('fonts/alk-icon.ttf?rj7cvg') format('truetype'),
+    url('fonts/alk-icon.woff?rj7cvg') format('woff'),
+    url('fonts/alk-icon.svg?rj7cvg#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
+
+
+
 
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
@@ -1752,4 +1757,7 @@
 }
 .alk-icon-ups:before {
   content: "\eb3e";
+}
+.alk-icon-davivienda:before {
+  content: "\eb3f";
 }
