@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?mj23je) format("woff2");
+  src: url(fonts/alk-icon.woff2?vjacrd) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?mj23je') format('woff2'),
-    url('fonts/alk-icon.ttf?mj23je') format('truetype'),
-    url('fonts/alk-icon.woff?mj23je') format('woff'),
-    url('fonts/alk-icon.svg?mj23je#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?vjacrd') format('woff2'),
+    url('fonts/alk-icon.ttf?vjacrd') format('truetype'),
+    url('fonts/alk-icon.woff?vjacrd') format('woff'),
+    url('fonts/alk-icon.svg?vjacrd#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
