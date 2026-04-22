@@ -1,16 +1,17 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?4m1xh5) format("woff2");
+  src: url(fonts/alk-icon.woff2?z6ivcs) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?4m1xh5') format('woff2'),
-    url('fonts/alk-icon.ttf?4m1xh5') format('truetype'),
-    url('fonts/alk-icon.woff?4m1xh5') format('woff'),
-    url('fonts/alk-icon.svg?4m1xh5#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?z6ivcs') format('woff2'),
+    url('fonts/alk-icon.ttf?z6ivcs') format('truetype'),
+    url('fonts/alk-icon.woff?z6ivcs') format('woff'),
+    url('fonts/alk-icon.svg?z6ivcs#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
 
 
 
@@ -1798,4 +1799,28 @@
 }
 .alk-icon-silla-plastico:before {
   content: "\eb4c";
+}
+.alk-icon-kapersky:before {
+  content: "\eb4d";
+}
+.alk-icon-estufa:before {
+  content: "\eb4e";
+}
+.alk-icon-estufa-empotrar:before {
+  content: "\eb4f";
+}
+.alk-icon-horno-empotrar:before {
+  content: "\eb50";
+}
+.alk-icon-calentador-acumulacion:before {
+  content: "\eb51";
+}
+.alk-icon-ducha-electrica:before {
+  content: "\eb52";
+}
+.alk-icon-memoria-camara:before {
+  content: "\eb53";
+}
+.alk-icon-papel-fotografico:before {
+  content: "\eb54";
 }
