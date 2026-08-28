@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?bw6x8s) format("woff2");
+  src: url(fonts/alk-icon.woff2?qbw6sf) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?bw6x8s') format('woff2'),
-    url('fonts/alk-icon.ttf?bw6x8s') format('truetype'),
-    url('fonts/alk-icon.woff?bw6x8s') format('woff'),
-    url('fonts/alk-icon.svg?bw6x8s#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?qbw6sf') format('woff2'),
+    url('fonts/alk-icon.ttf?qbw6sf') format('truetype'),
+    url('fonts/alk-icon.woff?qbw6sf') format('woff'),
+    url('fonts/alk-icon.svg?qbw6sf#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
@@ -1886,4 +1886,7 @@
 }
 .alk-icon-phone-detalles:before {
   content: "\eb6b";
+}
+.alk-icon-planeta:before {
+  content: "\eb6c";
 }
