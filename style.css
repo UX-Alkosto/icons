@@ -1,16 +1,19 @@
 @font-face {
   font-family: 'alk-icon';
-  src: url(fonts/alk-icon.woff2?qbw6sf) format("woff2");
+  src: url(fonts/alk-icon.woff2?xcu4je) format("woff2");
   src:
-    url('fonts/alk-icon.woff2?qbw6sf') format('woff2'),
-    url('fonts/alk-icon.ttf?qbw6sf') format('truetype'),
-    url('fonts/alk-icon.woff?qbw6sf') format('woff'),
-    url('fonts/alk-icon.svg?qbw6sf#alk-icon') format('svg');
+    url('fonts/alk-icon.woff2?xcu4je') format('woff2'),
+    url('fonts/alk-icon.ttf?xcu4je') format('truetype'),
+    url('fonts/alk-icon.woff?xcu4je') format('woff'),
+    url('fonts/alk-icon.svg?xcu4je#alk-icon') format('svg');
 
   font-weight: normal;
   font-style: normal;
   font-display: block;
 }
+
+
+
 
 [class^="alk-icon-"], [class*=" alk-icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
